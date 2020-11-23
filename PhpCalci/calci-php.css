@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding: 10;
+}
+input {
+	padding: 10px 19px;
+	margin-left: 5px;
+	box-shadow: 2px 3px 7px red;
+}
+table {
+	margin-top: 10%;
+	margin-left:40%;
+	box-shadow: 2px 5px 12px red;
+    padding: 20px 10px;
+   
+}
+.cal-head {
+    color: rgb(177, 11, 11);
+    width: 100%;
+    text-align: center;
+    padding: 7px;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px #787a05;
+}
+.cal-footer {
+    color: rgb(177, 11, 11);
+    width: 100%;
+    text-align: center;
+    padding: 7px;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #787a05;
+}
+
